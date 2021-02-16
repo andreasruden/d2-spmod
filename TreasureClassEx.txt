@@ -29,9 +29,9 @@ Runes 2			1						r03	1	r04	1	Runes 1	3																		0
 Runes 3			1						r05	1	r06	1	Runes 2	7																		0
 Runes 4			1						r07	1	r08	1	Runes 3	13																		0
 Runes 5			1						r09	1	r10	1	Runes 4	3																		0
-Runes 6			1						r11	1	r12	1	Runes 5	9																		0
-Runes 7			1						r13	1	r14	1	Runes 6	18																		0
-Runes 8			1						r15	1	r16	1	Runes 7	30																		0
+Runes 6			1						r11	1	r12	1	Runes 5	8																		0
+Runes 7			1						r13	1	r14	1	Runes 6	15																		0
+Runes 8			1						r15	1	r16	1	Runes 7	25																		0
 Runes 9			1						r17	1	r18	1	Runes 8	6																		0
 Runes 10			1						r19	1	r20	1	Runes 9	18																		0
 Runes 11			1						r21	1	r22	1	Runes 10	34																		0
