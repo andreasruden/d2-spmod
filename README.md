@@ -1,3 +1,7 @@
+# Mod Overview
+This game rebalances drop rates & gambling rates to be SSF viable & fun.
+Rebalancing decisions for drop rates is based on https://github.com/andreasruden/d2-dropsimulator .
+
 # DifficultyLevels.txt
 Gambling Probabilities Changed:
   Unique: 0.05% -> 7.5% (roll always happens)
@@ -25,11 +29,12 @@ Meaning:
   At 0 mf: There will drop roughly 3 times the uniques, rares and set items.
   
 # TreasureClassEx.txt:
-Made higher Runes a lot more common (chane to downgrade is much smaller).
-Trippled gold drop from special sources (bosses, uniques). Doubled gold from other already increased sources.
-Made chests drop more loot and less chance for junk.
-Made the "good" TCs less likely to drop bad gems in hell & nightmare. I.e., more likely to drop runes or good jewelry.
-Countess on Normal & Nightmare always drops 3 runes now. And her non-rare runes are more evenly distributed.
+- Made higher Runes a lot more common (chane to downgrade is much smaller).
+- Trippled gold drop from special sources (bosses, uniques). Doubled gold from other already increased sources.
+- Made chests drop more loot and less chance for junk.
+- Made the "good" TCs less likely to drop bad gems in hell & nightmare. I.e., more likely to drop runes or good jewelry.
+- Countess now always drops 3 runes.
+- Rebalanced drop rates of runes r01-r24 (El-Ist) to be farmable at Countess at more linear rates.
 
 # MagicPrefix.txt and MagicSuffix.txt:
 Modifiers now spawn with equal weight regardless of tier, to make it more likely to find good rare items when playing solo.

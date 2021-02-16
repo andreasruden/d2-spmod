@@ -24,18 +24,18 @@ Potion 3			1						hp2	6	hp3	6	hp4	4	mp3	3	mp4	3	rvs	1	vps	2	yps	2	wms	1						0
 Potion 4			1						hp3	6	hp4	6	hp5	4	mp4	3	mp5	3	rvs	1	vps	2	yps	2	wms	1						0
 Potion 5			1						hp3	4	hp4	6	hp5	6	mp5	5	rvs	1	vps	2	yps	2	wms	1								0
 Potion 6			1						hp4	6	hp5	8	mp4	1	mp5	5	rvs	1	vps	2	yps	2	wms	1								0
-Runes 1			1						r01	3	r02	2																				0
-Runes 2			1						r03	3	r04	2	Runes 1	7																		0
-Runes 3			1						r05	3	r06	2	Runes 2	13																		0
-Runes 4			1						r07	3	r08	2	Runes 3	18																		0
-Runes 5			1						r09	3	r10	2	Runes 4	12																		0
-Runes 6			1						r11	3	r12	2	Runes 5	20																		0
-Runes 7			1						r13	3	r14	2	Runes 6	27																		0
-Runes 8			1						r15	3	r16	2	Runes 7	35																		0
-Runes 9			1						r17	3	r18	2	Runes 8	50																		0
-Runes 10			1						r19	3	r20	2	Runes 9	55																		0
-Runes 11			1						r21	3	r22	2	Runes 10	60																		0
-Runes 12			1						r23	3	r24	2	Runes 11	70																		0
+Runes 1			1						r01	1	r02	1																				0
+Runes 2			1						r03	1	r04	1	Runes 1	3																		0
+Runes 3			1						r05	1	r06	1	Runes 2	6																		0
+Runes 4			1						r07	1	r08	1	Runes 3	10																		0
+Runes 5			1						r09	2	r10	2	Runes 4	1																		0
+Runes 6			1						r11	1	r12	1	Runes 5	4																		0
+Runes 7			1						r13	1	r14	1	Runes 6	8																		0
+Runes 8			1						r15	1	r16	1	Runes 7	12																		0
+Runes 9			1						r17	1	r18	1	Runes 8	4																		0
+Runes 10			1						r19	1	r20	1	Runes 9	9																		0
+Runes 11			1						r21	1	r22	1	Runes 10	17																		0
+Runes 12			1						r23	1	r24	1	Runes 11	38																		0
 Runes 13			1						r25	3	r26	2	Runes 12	40																		0
 Runes 14			1						r27	3	r28	2	Runes 13	50																		0
 Runes 15			1						r29	3	r30	2	Runes 14	60																		0
@@ -838,10 +838,10 @@ ROP (N)			1	1024				0	Diablo (N)	4	Annihilus	1																				0
 ROP (H)			1	1024				0	Annihilus	1																						0
 Countess Rune			3					0	Runes 4	15																						0
 Countess Rune (N)			3					0	Runes 8	15																						0
-Countess Rune (H)			3					5	Runes 12	15																						0
+Countess Rune (H)			3					0	Runes 12	15																						0
 Countess Item			3					19	"gld,mul=3840"	11	Act 1 Equip C	19	Act 2 Junk	15	Act 2 Good	3																0
 Countess Item (N)			3					19	"gld,mul=4608"	11	Act 1 (N) Equip C	19	Act 2 (N) Junk	15	Act 2 (N) Good	3																0
-Countess Item (H)			5					19	"gld,mul=6144"	11	Act 1 (H) Equip C	19	Act 2 (H) Junk	15	Act 2 (H) Good	3	pk1	1														0
+Countess Item (H)			3					19	"gld,mul=6144"	11	Act 1 (H) Equip C	19	Act 2 (H) Junk	15	Act 2 (H) Good	3	pk1	1														0
 Countess			-2	883	883	883	1024	0	Countess Item	1	Countess Rune	1																				0
 Countess (N)			-2	883	883	983	1024	0	Countess Item (N)	1	Countess Rune (N)	1																				0
 Countess (H)			-2	883	883	983	1024	0	Countess Item (H)	1	Countess Rune (H)	1																				0
