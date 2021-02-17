@@ -36,11 +36,11 @@ Runes 9			1						r17	1	r18	1	Runes 8	6																		0
 Runes 10			1						r19	1	r20	1	Runes 9	18																		0
 Runes 11			1						r21	1	r22	1	Runes 10	34																		0
 Runes 12			1						r23	1	r24	1	Runes 11	76																		0
-Runes 13			1						r25	3	r26	2	Runes 12	30																		0
-Runes 14			1						r27	3	r28	2	Runes 13	40																		0
-Runes 15			1						r29	3	r30	2	Runes 14	50																		0
-Runes 16			1						r31	3	r32	2	Runes 15	60																		0
-Runes 17			1						r33	1	Runes 16	40																				0
+Runes 13			1						r25	3	r26	2	Runes 12	50																		0
+Runes 14			1						r27	3	r28	2	Runes 13	60																		0
+Runes 15			1						r29	3	r30	2	Runes 14	70																		0
+Runes 16			1						r31	3	r32	2	Runes 15	80																		0
+Runes 17			1						r33	1	Runes 16	60																				0
 Act 1 Junk			1						Potion 1	8	Misc 0	4	Ammo	4																		0
 Act 2 Junk			1						Act 1 Junk	2	Potion 2	8	Misc 0	4	Ammo	4																0
 Act 3 Junk			1						Act 2 Junk	2	Potion 3	8	Misc 1	4	Ammo	4																0
