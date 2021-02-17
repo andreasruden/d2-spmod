@@ -45,6 +45,8 @@ to more dropped set items.
 - Made the "good" TCs less likely to drop bad gems in hell & nightmare. I.e., more likely to drop runes or good jewelry.
 - Countess now always drops 3 runes.
 - Rebalanced drop rates of runes r01-r24 (El-Ist) to be farmable at Countess at more linear rates.
+- High Level Bases have been made more common.
+- Changed the rarity of some bases that was causing uniques to be very rare.
 
 # UniqueItems.txt
 - Weighting of unique rings have been rebalanced.
@@ -58,24 +60,9 @@ to more dropped set items.
 - Weighting of amulets have changed a bit:
   Nokozan (20) -> (10), Mahim (10) -> (7) Seraph (3) -> (5), Metalgrid (2) -> (5)
 
-- The Following uniques have had their weighting decreased additionaly:
-    Venomsward, Bladebone, Bloodrise, Rusthandle, Griswold's Edge, Soul Harvest,
-    Bloodthief, Hawkmail, The Chieftain, Soulflay, Twitchthroe, Shadowfang,	Duskdeep,
-    Sparking Mail, Steelclash, Deathspade, Gleamscythe, Steelgoad, Crushflange, Mindrend,
-    The Generals Tan Do Li Ga, Goreshovel, Hellplague, Lance of Yaggai, Razortine,
-    Stormeye, Bonesob, Kinemils Awl, The Battlebranch, Nagelring, Manald Heal,
-    Coil of Glory, Darkglow, Stormguild, Krintizs Skewer, Frostburn, Tearhaunch, Woestave
-
-- The Following uniques have been made less rare (sorted by order of rarity):
-  - Tyrael's Might (1:1 templars, uar 87)
-  - Griffon's Eye (ci3, 84)
-  - Deaths's Web (7gw, 74)
-  - Earthshifter (7gm, 77)
-  - The Cranium Basher (7gm, 85)
-  - Windforce (6lw, 80)
-  - Mang Song's Lesson (6ws, 86)
-  - Stormspire (7wc, 78)
-  - Ghostflame (7bl, 70)
+- Uniques armor/weapons/misc have been rebalanced to be within a 1/1000 chance of dropping per kill of Act Boss X,
+  if they are within a reasonable item level of Boss X (I.e. farming low ilvl uniques is not ideal from Baal (H)),
+  where reasonable is defined as mlvl within 30 of baseitem's ilvl.
 
 # MagicPrefix.txt and MagicSuffix.txt:
 Modifiers now spawn with equal weight regardless of tier, to make it more likely to find good rare items when playing solo.
