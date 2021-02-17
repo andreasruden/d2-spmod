@@ -47,6 +47,7 @@ to more dropped set items.
 - Rebalanced drop rates of runes r01-r24 (El-Ist) to be farmable at Countess at more linear rates.
 - High Level Bases have been made more common.
 - Changed the rarity of some bases that was causing uniques to be very rare.
+- "Good" TCs made more common from bosses.
 
 # UniqueItems.txt
 - Weighting of unique rings have been rebalanced.
